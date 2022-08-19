@@ -1,1 +1,4 @@
-git push
+origin 먼저 push 후
+MLG1 push 오류
+>> git push (X)
+>> git push MLG1 master (O)
